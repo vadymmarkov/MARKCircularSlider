@@ -1,11 +1,3 @@
-//
-//  MARKCircularSliderTests.m
-//  Tests
-//
-//  Created by Vadym Markov on 11/03/15.
-//  Copyright (c) 2015 Hyper. All rights reserved.
-//
-
 @import UIKit;
 @import XCTest;
 

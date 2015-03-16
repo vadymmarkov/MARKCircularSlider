@@ -1,11 +1,3 @@
-//
-//  ViewController.m
-//  Demo
-//
-//  Created by Vadym Markov on 11/03/15.
-//  Copyright (c) 2015 Vadym Markov. All rights reserved.
-//
-
 #import "ViewController.h"
 #import "MARKCircularSlider.h"
 #import "UIColor+Demo.h"
@@ -73,7 +65,6 @@ static CGFloat const kViewControllerLabelWidth = 200.0;
     self.slider.minimumValue = 0;
     self.slider.maximumValue = 72;
     self.slider.value = 10;
-    self.slider.outsideTouchesEnabled = YES;
 
     [self.slider addTarget:self
                          action:@selector(sliderValueDidChange:)

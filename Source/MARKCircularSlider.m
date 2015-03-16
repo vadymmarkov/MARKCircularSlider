@@ -1,11 +1,3 @@
-//
-//  MARKCircularSlider.m
-//  Tests
-//
-//  Created by Vadym Markov on 10/03/15.
-//  Copyright (c) 2015 Hyper. All rights reserved.
-//
-
 #import "MARKCircularSlider.h"
 
 @interface MARKCircularSlider ()
